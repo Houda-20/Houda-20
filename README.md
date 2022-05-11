@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello</h1>
+<h1 align="center">👋 Hello , I'am Jaddou Houda </h1>
 <h3 align="center">software engineering student at National School of Applied Sciences</h3>
 
 
@@ -40,7 +40,7 @@ I'm open to feedback and suggestions!
 
 <p align="center">
 <a href="https://www.linkedin.com/in/houda-jaddou/"><img src="https://img.shields.io/badge/-JADDOU Houda-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jaddouhouda20@gmail.com"><img src="https://img.shields.io/badge/-@hakimchemlal-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100005970705001"><img src="https://img.shields.io/badge/-@hakimchemlal-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:jaddouhouda20@gmail.com"><img src="https://img.shields.io/badge/-@Jaddouhouda-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?viewas=100000686899395&id=100005970705001"><img src="https://img.shields.io/badge/-@Jaddouhouda-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
