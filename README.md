@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
 ✍️ &nbsp;software engineering student .\
 📄 &nbsp;this is my [Résumé]() for more details about me.
-I'm open to feedback and suggestions!
+I'm open to feedback and suggestions!.\
 👯 I’m looking to collaborate on **any new project**
 
 
